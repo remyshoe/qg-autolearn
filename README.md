@@ -1,5 +1,7 @@
 # qg-autolearn
-A script written by javascript, used for auto learning of the qg.
-
-Running the related application on the Andorid phone requires the Accessibility Service enabled for the application. 
-The phone screen resolution is 1920 x 1080 and without Android bottom navigator. 
+xxqg自习脚本，打包成Android APP（qg-autolearn.apk），支持手机Android 8.0或以上版本，屏幕分辨率1920X1080，无底部导航栏。
+# 使用方法
+* 安装qg-autolearn.apk
+* 清除Android后台程序
+* 设置开启qg-autolearn应用的无障碍模式
+* 打开qg-autolearn应用
