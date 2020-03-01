@@ -1,1 +1,2 @@
-Built out Android application of qg-autolearn.
+## qg-autolearn.apk
+Android应用程序。
